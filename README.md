@@ -20,11 +20,32 @@ May work on MacOS Big Sur but without AirPortAtheros40.kext
 
 
 ## To Do List
- - [x] Make system bootable <br> 
- - [x] Get audio to work <br>
+ - [x] Make system bootable 
+ - [x] Get audio to work
  - [x] Fix Graphics
  - [x] Fix Brightness
  - [x] Fix All USB Ports
  - [x] Try Successfully jailbreak an iPhone
+ - [x] Test HDMI
  - [ ] Get Trackpad to work
  - [ ] Test 'Sleep'
+ - [ ] Add a GUI for Booter
+
+## Kexts used
+- AirPortAtheros40.kext		
+- SMCProcessor.kext
+- AppleALC.kext			
+- USBMap.kext
+- AsusSMC.kext			
+- VerbStub.kext
+- CPUFriend.kext			
+- VirtualSMC.kext
+- CPUFriendDataProvider.kext	
+- VoodooI2C.kext
+- HibernationFixup.kext		
+- VoodooI2CELAN.kext
+- Lilu.kext			
+- VoodooPS2Controller.kext
+- RealtekRTL8111.kext		
+- WhateverGreen.kext
+- SMCBatteryManager.kext
