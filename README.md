@@ -13,7 +13,7 @@ May work on MacOS Big Sur but without AirPortAtheros40.kext
 | GPU  | Intel HD Graphics 520, Nvidia Geforce MX920 (not used)  |
 | RAM  | 4GB 2x (8GB In Total) |
 | LAN  | Realtek RTL8111 |
-| WiFi, BlueTooth  | Qualcom Atheros 956X |
+| WiFi, BlueTooth  | Qualcom Atheros 956X (9565) |
 | USB  | 2 Slots |
 | Trackpad  | Elan 1000 Trackpad I2C |
 | Audio  | alc255 (used layout-id 27) |
