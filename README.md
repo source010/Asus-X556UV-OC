@@ -11,7 +11,7 @@ May work on MacOS Big Sur but without AirPortAtheros40.kext
 | ------------- | ------------- |
 | CPU  | Intel Core I3 6100  |
 | GPU  | Intel HD Graphics 520, Nvidia Geforce MX920 (not used)  |
-| RAM  | 4GB 2x (8GB In Total |
+| RAM  | 4GB 2x (8GB In Total) |
 | LAN  | Realtek RTL8111 |
 | WiFi, BlueTooth  | Qualcom Atheros 956X |
 | USB  | 2 Slots |
