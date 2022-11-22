@@ -49,3 +49,9 @@ May work on MacOS Big Sur but without AirPortAtheros40.kext
 - RealtekRTL8111.kext		
 - WhateverGreen.kext
 - SMCBatteryManager.kext
+
+| Confirmed to work macOS version  | Unconfirmed to work macOS version |
+| ------------- | ------------- |
+| Mojave / 10.14  | Sierra / 10.12  |
+| Catalina / 10.15  | High Sierra / 10.13  |
+| Big Sur / 11  | Monterey / 12 |
